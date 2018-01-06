@@ -1,6 +1,6 @@
 package duckAdapter;
 
-//You are adapting Turkey to a Duck interface
+//You are converting Turkey into a Duck
 
 public class TurkeyAdapter implements Duck {
 	
